@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="EPBC Automation Test Suite" verbose="1">
+    <test name="EPBC Search and My List Tests">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="headless" value="false"/>
+        <classes>
+            <class name="ca.epbc.qa.tests.EpbcSearchMyListTest"/>
+        </classes>
+    </test>
+</suite>
