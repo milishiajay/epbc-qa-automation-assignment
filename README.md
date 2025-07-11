@@ -1,4 +1,4 @@
-This task was completed by DeepAgent with the prompt 'complete this' referring to the uploaded technical assignment document. The task was completed efficiently using AI automation.
+This task was completed by AI Agent with the prompt 'complete this' referring to the uploaded technical assignment document. The task was completed efficiently using AI automation.
 
 # EPBC QA Automation Assignment
 
